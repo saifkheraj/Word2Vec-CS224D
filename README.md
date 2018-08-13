@@ -1,1 +1,1 @@
-# Word2Vec-CS224N
+# Word2Vec-CS224D
